@@ -1,0 +1,10 @@
+Gun
+Knife
+Sword
+Machete
+Buzzsaw
+Fork
+Cane
+Fists
+Lightsaber
+Magic Wand
